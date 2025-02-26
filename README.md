@@ -6,4 +6,4 @@ Fruit\
   -color\
   -quality\
   -expiration date\
-  -supplier\
+  -supplier

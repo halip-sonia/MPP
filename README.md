@@ -1,5 +1,5 @@
 # MPP
-Fruit
+Fruit /n
   Attributes:
   -id
   -name

@@ -5,4 +5,6 @@ Fruit\
   -name\
   -color\
   -quality\
-  -expiration date
+  -expiration date\
+  -origin
+

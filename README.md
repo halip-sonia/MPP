@@ -5,5 +5,4 @@ Fruit\
   -name\
   -color\
   -quality\
-  -expiration date\
-  -supplier
+  -expiration date
